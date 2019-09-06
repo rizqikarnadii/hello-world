@@ -99,3 +99,10 @@ Getting started is the hardest part. If there’s anything you’d like to know 
   - lip
   - balm
  
+[Ini link google]
+(www.Google.com)
+
+![ini foto kucing]
+(https://upload.wikimedia.org/wikipedia/commons/6/66/An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg)
+
+
