@@ -94,3 +94,8 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 # Heboh
 
 *Mengapa dia mencoba makan makanan itu ?* **KARENA DIA LAPAR BODOH** _ok **YA** maap si_
+
+- ok barang ini adalah :
+  - lip
+  - balm
+ 
